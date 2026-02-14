@@ -10,7 +10,7 @@ O projeto permite analisar dados, gerar gráficos e obter insights de forma inte
 ## 🚀 Demonstração
 
 Acesse a aplicação online:
-👉 [Link do app no Streamlit Cloud]
+👉 [streamlit.app](https://bi-ba-big-data-aplicada-neg-cios-d4qqr6n7z35ydrnj7m3vka.streamlit.app/)
 
 ---
 
@@ -36,4 +36,5 @@ cd seu-repo
 pip install -r requirements.txt
 
 ### 3. Execute o projeto
+
 streamlit run app.py
