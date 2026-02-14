@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # 📊 BI & Big Data Aplicada a Negócios
 
 Aplicação de análise de dados desenvolvida com Streamlit para visualização e exploração de dados de negócios.
@@ -38,3 +38,4 @@ pip install -r requirements.txt
 ### 3. Execute o projeto
 
 streamlit run app.py
+
